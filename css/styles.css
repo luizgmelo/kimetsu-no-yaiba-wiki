@@ -1,3 +1,4 @@
-body {
-    background-color: red;
+.logo, .story-image  {
+  width: 150px;
+  height: 150px;
 }
