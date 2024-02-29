@@ -6,3 +6,7 @@
 .card img {
   height: 250px;
 }
+
+.bg-danger-dark {
+  background-color: #5E111F;
+}
